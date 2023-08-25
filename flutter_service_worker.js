@@ -94,7 +94,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b
 "assets/assets/Vectorsearch.svg": "c48e2c06df755b9544ec987509669613",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "5f782d9ccab87ecdedb125b5757c0a7e",
-"assets/NOTICES": "44ea330115b0fb37469662a8442defaf",
+"assets/NOTICES": "909f50b2115818a6762d81e7a5869e1d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
@@ -115,9 +115,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "efddc93e55ad8a28addfa59062f0a936",
-"/": "efddc93e55ad8a28addfa59062f0a936",
-"main.dart.js": "d49202c1357cd750b9b96649ac3b9f42",
+"index.html": "ce8aedd634759b19760beb91ff68a6f0",
+"/": "ce8aedd634759b19760beb91ff68a6f0",
+"main.dart.js": "55081929201e3b0a7cf8999211951016",
 "manifest.json": "059fa260b969c9a81c8bb6c013bbed31",
 "version.json": "83f91731cc1fd59318d3b76f73fb34c9"};
 // The application shell files that are downloaded before a service worker can
