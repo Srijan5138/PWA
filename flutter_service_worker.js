@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b",
-"assets/AssetManifest.json": "b4c20b02f20eab47bb13bb93bc4a11d6",
+const RESOURCES = {"assets/AssetManifest.bin": "55c0a164565c315ef06783681f2feeeb",
+"assets/AssetManifest.json": "b7aa815a83b0030306833e548858aa0a",
 "assets/assets/Cellapp.png": "17507aaed38dd2c391a1ecd47d7cf806",
 "assets/assets/emblem.png": "b6d313fb70c8751945f2bfe349c3a3a9",
 "assets/assets/featured.png": "7441241374f896bdb0620999a76d40c5",
@@ -48,6 +48,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b
 "assets/assets/icons/twitter.svg": "37caa6621fbf99d618c438b5a3c3ca5e",
 "assets/assets/icons/youtube.svg": "6c3781437eadf78643698de65b648042",
 "assets/assets/image.jpg": "4c1f801fc3d94db94d6b27953c7d5c7f",
+"assets/assets/khim.jpg": "35f3b12cd8efcdb4e1d2fc19c1624312",
 "assets/assets/latest1.png": "05f7e6b18271a718d19ab72f78ecfd4f",
 "assets/assets/latest2.png": "aa9a7b7f4dddbaeca38050b07006e34a",
 "assets/assets/light-bulb.png": "1e5daa112931ae8e4f048b53622a19cb",
@@ -85,6 +86,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b
 "assets/assets/pdf/knowledge_product/4.jpg": "62b212889278b8971c020e357268b0e2",
 "assets/assets/pdf/knowledge_product/5.jpg": "a6448dc34dc60157b50610f694944d41",
 "assets/assets/photo.png": "7aa94544855c63cab5dd73480b70bc82",
+"assets/assets/rajendra.jpg": "7bd07a3fe48dd91f4910118ba1f35ee3",
 "assets/assets/repre1.png": "c162b96860ea6a947d3454455b36d5fc",
 "assets/assets/repre2.png": "610c82634f3a01476cc87ad2c54830fb",
 "assets/assets/repre3.png": "367ea9c7e8a01396949d378026223ae0",
@@ -93,7 +95,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b
 "assets/assets/Vectormap.svg": "7bbd2f3551df13ee49548778ce006de8",
 "assets/assets/Vectorsearch.svg": "c48e2c06df755b9544ec987509669613",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "5f782d9ccab87ecdedb125b5757c0a7e",
+"assets/fonts/MaterialIcons-Regular.otf": "1e90311598ff2441876c273af99a8bf5",
 "assets/NOTICES": "909f50b2115818a6762d81e7a5869e1d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
@@ -115,9 +117,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6d0ba900630f2f9c665a3214d26b8a9b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a141e90b26ab2c86422158597bb5ad57",
-"/": "a141e90b26ab2c86422158597bb5ad57",
-"main.dart.js": "595af10c5b9e50cf44f794374e730c19",
+"index.html": "a8e95cb4f6f4f7e93b7dc122443fb27f",
+"/": "a8e95cb4f6f4f7e93b7dc122443fb27f",
+"main.dart.js": "ad824616693f8d7169f97f21b4f62cdd",
 "manifest.json": "059fa260b969c9a81c8bb6c013bbed31",
 "version.json": "83f91731cc1fd59318d3b76f73fb34c9"};
 // The application shell files that are downloaded before a service worker can
