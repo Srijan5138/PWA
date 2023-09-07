@@ -18,7 +18,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "55c0a164565c315ef06783681f2feeeb
 "assets/assets/icons/career.svg": "e1e0d90fdc8a6a2593131c5deeb874ae",
 "assets/assets/icons/circle.svg": "be1f4366cbfdb81fe4e111d002865203",
 "assets/assets/icons/doublearrow.svg": "7e03bafb8e08113331e6fa31cf2f76a7",
-"assets/assets/icons/download.svg": "061248adc696178cf2f16637dce9d66a",
+"assets/assets/icons/download.svg": "c919d52ccbb7c7ba5655ac3889ec27b8",
 "assets/assets/icons/dropdown.svg": "fdaeabbf30b039dc379c7378145b24f3",
 "assets/assets/icons/eye.svg": "14149c238b959f5fc551ec915307a425",
 "assets/assets/icons/facebook-logo.png": "942ea3b4c9258c2d98d6182c7b826e57",
@@ -117,9 +117,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "55c0a164565c315ef06783681f2feeeb
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "51369e28ace575343de9b34038cbe9a0",
-"/": "51369e28ace575343de9b34038cbe9a0",
-"main.dart.js": "ad824616693f8d7169f97f21b4f62cdd",
+"index.html": "975d53ae5b08d53eff1564ff53b010d5",
+"/": "975d53ae5b08d53eff1564ff53b010d5",
+"main.dart.js": "2c7e13d38c6cf02f56376a37aa48bed5",
 "manifest.json": "059fa260b969c9a81c8bb6c013bbed31",
 "version.json": "83f91731cc1fd59318d3b76f73fb34c9"};
 // The application shell files that are downloaded before a service worker can
